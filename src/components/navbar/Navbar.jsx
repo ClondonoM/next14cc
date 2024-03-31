@@ -5,7 +5,7 @@ import styles from "./navbar.module.css"
 const Navbar = () => {
     return (
         <div className={styles.container}>
-            <Link href="/" className={styles.logo}>CALMdev</Link  > 
+            <Link href="/" className={styles.logo}>calmDev</Link  > 
             <div>
                 <Links/>    
                 </div> 
